@@ -20,7 +20,7 @@ An NLP-based system that classifies input text into **Positive**, **Negative**, 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/AI-Text-Sentiment-Analyzer.git
+git clone https://github.com/rakshambhola/AI-Text-Sentiment-Analyzer.git
 ```
 
 2. Install dependencies:
